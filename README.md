@@ -17,17 +17,10 @@
 
 - SMX 2
 
-## 📊 Estado del proyecto
-
-- 🔵 Iniciado
-- 🟡 En proceso
-- ✅ Terminado
-- ⚪ Pendiente
-
 ---
 
 <details open>
-<summary><strong>1. Introducción - ¿qué estamos haciendo?</strong> · Estado: <em>🔵 Iniciado</em></summary>
+<summary><strong>1. Introducción - ¿qué estamos haciendo?</strong></summary>
 
 - <strong>Progreso:</strong> Definir la idea principal del proyecto, su objetivo y la finalidad del sistema.
 - <strong>Descripción del avance:</strong> Se está planteando la propuesta general de HobbyHub y el contexto de uso dentro del entorno académico.
@@ -35,7 +28,7 @@
 </details>
 
 <details>
-<summary><strong>2. Briefing de ideas</strong> · Estado: <em>🟡 En proceso</em></summary>
+<summary><strong>2. Briefing de ideas</strong></summary>
 
 - <strong>Progreso:</strong> Recoger ideas relevantes y seleccionar la propuesta más viable.
 - <strong>Descripción del avance:</strong> Se está trabajando en la línea principal del proyecto y en la concreción de la idea base.
@@ -43,7 +36,7 @@
 </details>
 
 <details>
-<summary><strong>3. Arquitectura del software</strong> · Estado: <em>⚪ Pendiente</em></summary>
+<summary><strong>3. Arquitectura del software</strong></summary>
 
 - <strong>Progreso:</strong> Definir módulos, componentes, dependencias y organización del sistema.
 - <strong>Descripción del avance:</strong> Esta parte aún no ha sido desarrollada.
@@ -51,7 +44,7 @@
 </details>
 
 <details>
-<summary><strong>4. Tecnologías a utilizar</strong> · Estado: <em>🔵 Iniciado</em></summary>
+<summary><strong>4. Tecnologías a utilizar</strong></summary>
 
 - <strong>Progreso:</strong> Identificar herramientas, lenguajes y soluciones técnicas adecuadas para el proyecto.
 - <strong>Descripción del avance:</strong> Se ha empezado a valorar qué tecnologías serán necesarias para su desarrollo.
@@ -59,7 +52,7 @@
 </details>
 
 <details>
-<summary><strong>5. Red</strong> · Estado: <em>⚪ Pendiente</em></summary>
+<summary><strong>5. Red</strong></summary>
 
 - <strong>Progreso:</strong> Analizar la infraestructura de red y definir su estructura.
 - <strong>Descripción del avance:</strong> La sección está aún por completar.
@@ -72,7 +65,7 @@
 </details>
 
 <details>
-<summary><strong>6. Web</strong> · Estado: <em>⚪ Pendiente</em></summary>
+<summary><strong>6. Web</strong></summary>
 
 - <strong>Progreso:</strong> Definir la estructura, contenido y funcionalidad de la interfaz web.
 - <strong>Descripción del avance:</strong> La parte web aún no se ha desarrollado.
@@ -86,7 +79,7 @@
 </details>
 
 <details>
-<summary><strong>7. Servicios explicado de un modo sencillo (vinculado al diagrama de la red)</strong> · Estado: <em>⚪ Pendiente</em></summary>
+<summary><strong>7. Servicios explicado de un modo sencillo (vinculado al diagrama de la red)</strong></summary>
 
 - <strong>Progreso:</strong> Explicar cada servicio del sistema con un enfoque claro y accesible.
 - <strong>Descripción del avance:</strong> Esta sección se desarrollará en una fase posterior del proyecto.
@@ -101,7 +94,7 @@
 </details>
 
 <details>
-<summary><strong>8. Conclusiones</strong> · Estado: <em>⚪ Pendiente</em></summary>
+<summary><strong>8. Conclusiones</strong></summary>
 
 - <strong>Progreso:</strong> Recoger los resultados obtenidos y las reflexiones finales del proyecto.
 - <strong>Descripción del avance:</strong> Se realizará al finalizar el trabajo.
@@ -109,7 +102,7 @@
 </details>
 
 <details>
-<summary><strong>9. Bibliografía</strong> · Estado: <em>⚪ Pendiente</em></summary>
+<summary><strong>9. Bibliografía</strong></summary>
 
 - <strong>Progreso:</strong> Incluir referencias y fuentes consultadas para la elaboración del proyecto.
 - <strong>Descripción del avance:</strong> Está pendiente de completarse.
@@ -117,7 +110,7 @@
 </details>
 
 <details>
-<summary><strong>10. Guías de usuario</strong> · Estado: <em>⚪ Pendiente</em></summary>
+<summary><strong>10. Guías de usuario</strong></summary>
 
 - <strong>Progreso:</strong> Documentar el uso del proyecto, su acceso y funcionamiento.
 - <strong>Descripción del avance:</strong> Este apartado se desarrollará cuando el sistema esté más avanzado.
