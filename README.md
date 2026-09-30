@@ -1,5 +1,46 @@
 # HobbyHub
 
+## JUSTIFICACIÓN DE LA IDEA
+
+Nuestra justificación para esta idea consiste en una aplicación web parecida a Pinterest, pero con el objetivo de socializar.
+
+### ¿Cómo?
+
+Nuestra idea es que aparezcan diferentes perfiles con su foto de perfil y una descripción del mismo. Sin embargo, para que no salgan tantas personas que dudemos que tengan relación con nuestro cliente, le hacemos un mini test al principio con algunas preguntitas sobre sus gustos personales, para así hacer que le aparezcan aquellas personas que tengan más relación.
+
+### Objetivos
+
+La idea es encontrar gente para pasar el rato con los mismos gustos que los tuyos. ¿Para qué? Pues para así encontrar gente con la que puedas pasar el rato y compartir intereses.
+
+## Público objetivo
+
+Nuestro objetivo es general, aunque suponemos que llegará más a los jóvenes, al ser algo parecido a Pinterest y Discord.
+
+## Módulos
+
+Los módulos que creemos que están implicados en nuestra idea de proyecto serían:
+
+- Seguridad: para proteger el contenido y los datos de las personas, así como dicha aplicación web.
+
+- Aplicaciones web: porque necesitamos saber, al menos de forma general, cómo se programa una web o qué métodos se utilizan para hacerla con la IA lo más perfecta posible.
+
+- Servicios de red: para dar conexión al sistema de mensajes.
+
+- Sistemas operativos: para la instalación del servidor y del ordenador de prueba, así como de los servicios que queremos agregar al servidor.
+
+## Materiales
+
+- Físicos
+
+- Lógicos
+
+## Recursos
+
+-   (PENDIENTE POR RELLENAR)
+
+
+---
+
 <div align="center">
   <img src="https://img.shields.io/badge/Proyecto-HobbyHub-4F46E5?style=for-the-badge&logo=github" alt="HobbyHub" />
   <h2>📘 Índice del proyecto</h2>
