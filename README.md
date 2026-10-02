@@ -2,31 +2,31 @@
 
 ## JUSTIFICACIÓN DE LA IDEA
 
-Nuestra justificación para esta idea consiste en una aplicación web parecida a Pinterest, pero con el objetivo de socializar.
+La justificación de esta aplicación web surge a partir de la necesidad de facilitar la comunicación y la creación de lazos de amistad entre personas que compartan intereses similares. En la sociedad actual, muchas personas presentan dificultades para relacionarse y encontrar espacios adecuados para conocer a otras personas con afinidades comunes.
 
 ### ¿Cómo?
 
-Nuestra idea es que aparezcan diferentes perfiles con su foto de perfil y una descripción del mismo. Sin embargo, para que no salgan tantas personas que dudemos que tengan relación con nuestro cliente, le hacemos una enquesta al principio con algunas preguntas sobre sus gustos personales, para así hacer que le aparezcan aquellas personas que tengan más relación.
+Nuestra propuesta consiste en una plataforma en la que cada usuario tendrá un perfil con una foto y una breve descripción personal. Para evitar que los resultados sean demasiado amplios o poco relevantes, se realizará un pequeño cuestionario inicial con preguntas sobre gustos e intereses. De esta forma, la aplicación mostrará perfiles con mayor afinidad, favoreciendo la conexión entre personas con características y preferencias similares.
 
 ### Objetivos
 
-La idea es encontrar gente para pasar el rato con los mismos gustos que los tuyos. ¿Para qué? Pues para así encontrar gente con la que puedas pasar el rato y compartir intereses.
+El objetivo principal es facilitar el encuentro entre personas con intereses comunes, promoviendo la socialización y la creación de relaciones personales basadas en gustos compartidos. Así, los usuarios podrán conocer a otras personas, compartir actividades y pasar tiempo con personas con las que tengan mayor afinidad.
 
 ## Público objetivo
 
-Nuestro objetivo es general, aunque suponemos que llegará más a los jóvenes, al ser algo parecido a Pinterest y Discord.
+Este proyecto está dirigido principalmente a los jóvenes, ya que son un colectivo especialmente activo en la búsqueda de nuevas formas de socialización y relación con otras personas. La aplicación resulta especialmente útil para aquellos que desean ampliar su círculo social y conocer a personas con intereses similares en un entorno digital.
 
 ## Módulos
 
-Los módulos que creemos que están implicados en nuestra idea de proyecto serían:
+Los módulos que consideramos necesarios para el desarrollo de este proyecto son los siguientes:
 
-- Seguridad: para proteger el contenido y los datos de las personas, así como dicha aplicación web.
+- Seguridad: para proteger la información personal de los usuarios y garantizar la privacidad de los datos.
 
-- Aplicaciones web: porque necesitamos saber, al menos de forma general, cómo se programa una web o qué métodos se utilizan para hacerla con la IA lo más perfecta posible.
+- Desarrollo web: para estudiar y aplicar los conocimientos necesarios en la creación de una aplicación web funcional.
 
-- Servicios de red: para dar conexión al sistema de mensajes.
+- Servicios de red: para establecer la conexión necesaria entre los distintos servicios del sistema.
 
-- Sistemas operativos: para la instalación del servidor y del ordenador de prueba, así como de los servicios que queremos agregar al servidor.
+- Sistemas operativos: para configurar el servidor y el equipo de prueba necesario para el correcto funcionamiento de la aplicación.
 
 ## Materiales
 
@@ -98,10 +98,26 @@ Los módulos que creemos que están implicados en nuestra idea de proyecto serí
 - <strong>Progreso:</strong> Analizar la infraestructura de red y definir su estructura.
 - <strong>Descripción del avance:</strong> La sección está aún por completar.
 
-- <strong>Subapartados:</strong>
-  - a) Diagrama de la red
-  - b) Mapa físico
-  - c) Mapa lógico
+    <details>
+    <summary><strong>a) Diagrama de la red</strong></summary>
+
+    Se representará la estructura de la red, incluyendo los dispositivos conectados, las conexiones entre ellos y la distribución de servicios.
+
+    </details>
+
+    <details>
+    <summary><strong>b) Mapa físico</strong></summary>
+
+    Se describirá la disposición física de los equipos y dispositivos que forman la infraestructura del proyecto.
+
+    </details>
+
+    <details>
+    <summary><strong>c) Mapa lógico</strong></summary>
+
+    Se explicará la organización lógica de la red, incluyendo la relación entre servicios, equipos y protocolos utilizados.
+
+    </details>
 
 </details>
 
@@ -111,11 +127,33 @@ Los módulos que creemos que están implicados en nuestra idea de proyecto serí
 - <strong>Progreso:</strong> Definir la estructura, contenido y funcionalidad de la interfaz web.
 - <strong>Descripción del avance:</strong> La parte web aún no se ha desarrollado.
 
-- <strong>Subapartados:</strong>
-  - a) Diseño
-  - b) Mockup
-  - c) Mapa de navegabilidad
-  - d) Base de datos
+    <details>
+    <summary><strong>a) Diseño</strong></summary>
+
+    Se definirá la apariencia visual de la aplicación, incluyendo colores, estructura, tipografía y disposición de elementos.
+
+    </details>
+
+    <details>
+    <summary><strong>b) Mockup</strong></summary>
+
+    Se elaborará una propuesta visual de la interfaz para representar la distribución del contenido y la navegación del sitio.
+
+    </details>
+
+<details>
+<summary><strong>c) Mapa de navegabilidad</strong></summary>
+
+Se describirá la estructura de navegación de la web y la relación entre sus distintas páginas o secciones.
+
+</details>
+
+<details>
+<summary><strong>d) Base de datos</strong></summary>
+
+Se analizará la organización de la información que almacenará la aplicación, así como las entidades y relaciones necesarias.
+
+</details>
 
 </details>
 
@@ -125,12 +163,40 @@ Los módulos que creemos que están implicados en nuestra idea de proyecto serí
 - <strong>Progreso:</strong> Explicar cada servicio del sistema con un enfoque claro y accesible.
 - <strong>Descripción del avance:</strong> Esta sección se desarrollará en una fase posterior del proyecto.
 
-- <strong>Subapartados:</strong>
-  - a) DNS
-  - b) DHCP
-  - c) Apache
-  - d) Firewall
-  - e) Copias de seguridad
+<details>
+<summary><strong>a) DNS</strong></summary>
+
+Se explicará el funcionamiento del sistema de nombres de dominio y su utilidad para resolver direcciones dentro de la red.
+
+</details>
+
+<details>
+<summary><strong>b) DHCP</strong></summary>
+
+Se describirá la asignación automática de direcciones IP a los equipos conectados a la red.
+
+</details>
+
+<details>
+<summary><strong>c) Apache</strong></summary>
+
+Se explicará el papel del servidor web dentro de la infraestructura y su relación con la aplicación desarrollada.
+
+</details>
+
+<details>
+<summary><strong>d) Firewall</strong></summary>
+
+Se analizará la función de protección de la red frente a accesos no autorizados y amenazas externas.
+
+</details>
+
+<details>
+<summary><strong>e) Copias de seguridad</strong></summary>
+
+Se describirá la importancia de realizar copias de seguridad para garantizar la seguridad y disponibilidad de la información.
+
+</details>
 
 </details>
 
