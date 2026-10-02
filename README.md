@@ -6,7 +6,7 @@ Nuestra justificación para esta idea consiste en una aplicación web parecida a
 
 ### ¿Cómo?
 
-Nuestra idea es que aparezcan diferentes perfiles con su foto de perfil y una descripción del mismo. Sin embargo, para que no salgan tantas personas que dudemos que tengan relación con nuestro cliente, le hacemos un mini test al principio con algunas preguntitas sobre sus gustos personales, para así hacer que le aparezcan aquellas personas que tengan más relación.
+Nuestra idea es que aparezcan diferentes perfiles con su foto de perfil y una descripción del mismo. Sin embargo, para que no salgan tantas personas que dudemos que tengan relación con nuestro cliente, le hacemos una enquesta al principio con algunas preguntas sobre sus gustos personales, para así hacer que le aparezcan aquellas personas que tengan más relación.
 
 ### Objetivos
 
