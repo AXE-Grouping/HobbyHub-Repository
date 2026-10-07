@@ -65,7 +65,7 @@ Los módulos que consideramos necesarios para el desarrollo de este proyecto son
 
 - <strong>Progreso:</strong> Definir la idea principal del proyecto, su objetivo y la finalidad del sistema.
 - <strong>Descripción del avance:</strong> Se está planteando la propuesta general de HobbyHub y el contexto de uso dentro del entorno académico.
-
+- <strong> 07/10/2026 </strong> Discusión y conversacion acerca de diseño de mockup
 </details>
 
 <details>
