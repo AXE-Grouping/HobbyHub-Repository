@@ -65,8 +65,7 @@ Los módulos que consideramos necesarios para el desarrollo de este proyecto son
 
 - <strong>Progreso:</strong> Definir la idea principal del proyecto, su objetivo y la finalidad del sistema.
 - <strong>Descripción del avance:</strong> Se está planteando la propuesta general de HobbyHub y el contexto de uso dentro del entorno académico.
-- <strong> 07/10/2026 </strong> Discusión y conversacion acerca de diseño de mockup
-- <strong> 13/10/2026 </strong> Progreso acerca de el wireframe inicial
+- <strong> Planteamiento del proyecto </strong> Durante los primeros días, hemos estado formandonos, creando este GitHub y tambien nuestro Trello.
 </details>
 
 <details>
@@ -131,7 +130,9 @@ Los módulos que consideramos necesarios para el desarrollo de este proyecto son
     <details>
     <summary><strong>a) Diseño</strong></summary>
 
-    Se definirá la apariencia visual de la aplicación, incluyendo colores, estructura, tipografía y disposición de elementos.
+      - <strong>  07/10/2026 </strong> Discusión y conversacion acerca de diseño de mockup
+      - <strong>  13/10/2026 </strong> Progreso acerca de el wireframe inicial
+      - <strong>  15/10/2026 </strong> En este día avanzamos considerablemente la forma que visualizamos nuestra aplicación Web, hablando del tema Wirefram
 
     </details>
 
@@ -227,9 +228,9 @@ Se describirá la importancia de realizar copias de seguridad para garantizar la
 
 ---
 
-### 📝 Nota
+### 📝 webgrafía
 
-Este índice se actualizará conforme avance el proyecto, reflejando el estado real de cada apartado y su progreso correspondiente.
+Aqui es donde ponemos los links consultados para trabajar en nuestro proyecto.
 
 <div align="center">
   <sub>HobbyHub · SMX 2</sub>
