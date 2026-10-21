@@ -130,21 +130,21 @@ Los módulos que consideramos necesarios para el desarrollo de este proyecto son
     <details>
     <summary><strong>a) Diseño</strong></summary>
 
-      - <strong>  07/10/2026 </strong> Discusión y conversacion acerca de diseño de mockup
-      - <strong>  13/10/2026 </strong> Progreso acerca de el wireframe inicial
-      - <strong>  15/10/2026 </strong> En este día avanzamos considerablemente la forma que visualizamos nuestra aplicación Web, hablando del tema Wirefram
+  - <strong>  07/10/2026 </strong> Discusión y conversacion acerca de diseño de mockup
+  - <strong>  13/10/2026 </strong> Progreso acerca de el wireframe inicial
+  - <strong>  15/10/2026 </strong> En este día avanzamos considerablemente la forma que visualizamos nuestra aplicación Web, hablando del tema Wirefram
 
     </details>
 
     <details>
     <summary><strong>b) Mockup</strong></summary>
 
-    Se elaborará una propuesta visual de la interfaz para representar la distribución del contenido y la navegación del sitio.
+    Empezamos el 21/10/2026, para hacer ya el Mockup, tras arreglar los errores que teníamos en el wireframe, aunque no llevamos mucho, ya hemos elegido entre todos las paletas de colores para las paginas web
 
     </details>
 
-<details>
-<summary><strong>c) Mapa de navegabilidad</strong></summary>
+  <details>
+    <summary><strong>c) Mapa de navegabilidad</strong></summary>
 
 Se describirá la estructura de navegación de la web y la relación entre sus distintas páginas o secciones.
 
