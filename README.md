@@ -140,6 +140,9 @@ Los módulos que consideramos necesarios para el desarrollo de este proyecto son
     <summary><strong>b) Mockup</strong></summary>
 
     Empezamos el 21/10/2026, para hacer ya el Mockup, tras arreglar los errores que teníamos en el wireframe, aunque no llevamos mucho, ya hemos elegido entre todos las paletas de colores para las paginas web
+    22/10/2026; Estamos dando color, diseño + tipo de letra, a la pagina web, le dimos estos valores de colores;
+    <img width="984" height="628" alt="image" src="https://github.com/user-attachments/assets/08e68bda-7e74-4602-811c-8d6cf6ceccf6" />
+    Y el tipo de letra es Noto Sans.
 
     </details>
 
