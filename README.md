@@ -155,7 +155,7 @@ Se describirá la estructura de navegación de la web y la relación entre sus d
 
 <details>
 <summary><strong>d) Base de datos</strong></summary>
-
+<strong> 10-11-2026 </strong> Hoy hemos decidio actualizar esta pagina de github y hemos estado formando tablas para el mapa de relaciones dado a desafíos organizando el diagrama. Aun estamos puliendo las tablas
 Se analizará la organización de la información que almacenará la aplicación, así como las entidades y relaciones necesarias.
 
 </details>
