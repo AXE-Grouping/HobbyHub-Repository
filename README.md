@@ -93,10 +93,10 @@ Los módulos que consideramos necesarios para el desarrollo de este proyecto son
 </details>
 
 <details>
-<summary><strong>5. Red</strong></summary>
-
+<summary><strong>5. Red y Arquitectura fisica</strong></summary>
+<strong> Ahora, siendo el 10-11-2026 estamos utilizando Axoview para poder diseñar un mapa de red fisica</strong>
 - <strong>Progreso:</strong> Analizar la infraestructura de red y definir su estructura.
-- <strong>Descripción del avance:</strong> La sección está aún por completar.
+- <strong>Descripción del avance:</strong> La sección está aún por completar. Pero a partir de el 10-11-2026 ya hemos comenzado haciendo progreso
 
     <details>
     <summary><strong>a) Diagrama de la red</strong></summary>
